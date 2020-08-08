@@ -1,0 +1,176 @@
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\Antlr3.Runtime.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\EntityFramework.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Http.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Optimization.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Providers.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Razor.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\WebGrease.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\EntityFramework.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Http.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.Razor.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\PagedList.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.dll
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\PagedList.xml
+D:\Learn-Web\CONGNGHEWEB\[Main]_Đồ_Án_CNW\Đồ Án CNW\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Antlr3.Runtime.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Optimization.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Providers.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\WebGrease.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.xml
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+E:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Antlr3.Runtime.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Optimization.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Providers.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\WebGrease.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.xml
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+D:\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Providers.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\ADMIN\Desktop\NguonTriThucBanBe\DO_AN_WEB_LyXuanThanh_LamUyenTrang\DO_AN_WEB_LyXuanThanh_LamUyenTrang\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll.config
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\CoffeeShop.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\CoffeeShop.pdb
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Http.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Providers.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Http.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\ADMIN\Desktop\DoAnWeb_Nhom4\DoAnWeb_Nhom4\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb

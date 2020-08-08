@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "SuaThucDon";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model CoffeeShop.Models.ThucDon
+
+<h2 style="text-align: center">SỬA THÔNG TIN MÓN</h2>
+<br />
+@using (Html.BeginForm("SuaThucDon", "Admin", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <table class="table table-dark">
+        <tr>
+            <td>Tên Món</td>
+            <td style="margin-left: 10px">
+                @Html.EditorFor(model => model.TenMon)
+                @Html.ValidationMessageFor(model => model.TenMon)
+            </td>
+        </tr>
+        <tr>
+            <td>Ảnh</td>
+            <td>
+                <input type="file" name="fileUp" />
+                <img src="@Url.Content("~/Asset/Images/" + Model.Hinh)" width="200" />(Ảnh hiện tại)
+            @ViewBag.ThongBao
+            </td>
+        </tr>
+        <tr>
+            <td>Mô Tả</td>
+            <td>
+                @Html.EditorFor(model => model.MoTa)
+                @Html.ValidationMessageFor(model => model.MoTa)
+            </td>
+        </tr>
+        <tr>
+            <td>Đơn giá</td>
+            <td>
+                @Html.EditorFor(model => model.Gia)
+                @Html.ValidationMessageFor(model => model.Gia)
+            </td>
+        </tr>
+    </table>
+       
+    <p style="text-align: center">
+        <input type="submit" value="Save" class="btn btn-default" style="color: white; background-color: red; font-weight: bold" />
+        |
+    @Html.ActionLink("Về trang Chỉnh Sửa Thực Đơn", "ChinhSua", "Admin")
+    </p>    
+}
